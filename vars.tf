@@ -6,4 +6,4 @@ variable "profile" {}
 
 variable "ami_id" {}
 
-variable "name" {}
+variable "ec2_name" {}
