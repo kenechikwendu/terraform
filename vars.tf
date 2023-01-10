@@ -6,6 +6,4 @@ variable "profile" {}
 
 variable "ami_id" {}
 
-variable "name" {
-
-}
+variable "name" {}
