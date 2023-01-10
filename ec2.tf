@@ -3,7 +3,7 @@ resource "aws_instance" "ec2_demo" {
   instance_type = var.instance_type
 
   tags = {
-    Name = var.name
+    Name = var.ec2_name
   }
 }
 
